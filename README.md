@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi!
+I'm Janek, 3rd year computer science student at University of Gdańsk. 
+Im mostly programming in Python and JS, but honestly, I really love C++ and Go😊.
 
 <!--
 **tlinku/tlinku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
